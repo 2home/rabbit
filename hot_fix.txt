@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 dsdjshdjshdjs edit by hotfix
 hotfix add
+=======
+dsdjshdjshdjs edit by master
+master add
+>>>>>>> master
